@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@atomize/component@^0.2.3":
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/@atomize/component/-/component-0.2.3.tgz#90e7705b953e9f1792ec75bbbd86181c73bf81c0"
-  integrity sha512-hmAOUKHxCJ3TZc/MnNaGFCIOmI8O30VnujLRNJc0GdJTyh/+hNI7GECUDOt/P95qecq07J3/8A9mKWwOvuZZZw==
+"@atomize/component@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@atomize/component/-/component-0.3.0.tgz#5f09799026bb4d2d91da18400e6433aa319f7c00"
+  integrity sha512-b6ldZLKLhq179x/UAb8XxbTjWCugsEGoVzq1lFzUaSAhRHX8+uvSThANtuH6Ae37VC5uCfq6vDPX6EdS1GG0oA==
   dependencies:
     "@types/styled-components" "^5.0.0"
     csstype "2.6.10"
